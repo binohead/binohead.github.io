@@ -70,8 +70,8 @@ body {
 	li {
 		display: block;
 		list-style-type: none;
-		border-bottom: 1px solid lighten($black,80);
-		border-bottom: 1px solid fade($black,10);
+		border-bottom: 1px solid lighten($lightblue,80);
+		border-bottom: 1px solid fade($lightblue,10);
 		@include font-rem(16);
 		&:last-child {
 			border-bottom: 0 solid transparent;
