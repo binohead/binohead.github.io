@@ -42,6 +42,7 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
+minimal_mistakes_skin: "air"
 highlight-color: '#0000FF'
 lowlight-color: '#0000FF'
 
