@@ -1,12 +1,15 @@
 ---
-layout: slide
 title: Example Reveal.js Presentation Deck
+date: 2016-07-22 00:00:00 Z
+categories:
+- presentation
+tags:
+- presentation
+layout: slide
 excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
-# theme: simple
 transition: convex
-tags: [presentation]
-category: presentation
 ---
+
 <section data-markdown>
   <textarea data-template>
     ## Reveal.js and Jekyll Academic

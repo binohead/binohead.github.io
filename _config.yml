@@ -1,76 +1,91 @@
-# Site wide configuration
-
+---
 title: Site Title
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+logo: 
 theme: minima
-
-# Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Andy Horn
   avatar: bio-photo.jpg
-  bio: "I fiddle with such things as this too much, practice trombone and piano too little."
+  bio: I fiddle with such things as this too much, practice trombone and piano too
+    little.
   email: aghorn@dal.ca
-  # Do not include the @ symbol in your Twitter username
   twitter: binohead
-  linkedin: #username
+  linkedin: 
   github: binohead
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
+  orcid: 
+  researchgate: 
+  mendeley: 
   google:
-    plus: #username
-    analytics:
-    verify:
-    scholar: #id
-  facebook: #username
-  instagram: #username
-  bing-verify:
-  stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
-  xing: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
-  disqus-shortname:
-
-# The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
-# you may do so in _sass/variables.scss
-minimal_mistakes_skin: "air"
-highlight-color: '#0000FF'
-lowlight-color: '#0000FF'
-
-  # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
+    plus: 
+    analytics: 
+    verify: 
+    scholar: 
+  facebook: 
+  instagram: 
+  bing-verify: 
+  stackoverflow: 
+  xing: 
+  lastfm: 
+  tumblr: 
+  pinterest: 
+  foursquare: 
+  steam: 
+  dribbble: 
+  youtube: 
+  soundcloud: 
+  weibo: 
+  flickr: 
+  codepen: 
+  disqus-shortname: 
+minimal_mistakes_skin: air
+highlight-color: "#0000FF"
+lowlight-color: "#0000FF"
 creative-commons:
-  cc-by: #yes
-  cc-by-nc: #yes
-
-#DO NOT EDIT BEYOND THIS POINT
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
+  cc-by: 
+  cc-by-nc: 
+permalink: "/:categories/:title/"
+markdown: kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
+- jekyll-sitemap
+- jekyll-seo-tag
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+include:
+- ".htaccess"
+exclude:
+- lib
+- config.rb
+- Capfile
+- config
+- log
+- Rakefile
+- Rakefile.rb
+- tmp
+- less
+- "*.sublime-project"
+- "*.sublime-workspace"
+- test
+- spec
+- Gruntfile.js
+- package.json
+- node_modules
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md

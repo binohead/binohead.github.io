@@ -1,11 +1,17 @@
 ---
-layout: post
 title: What is This?
-excerpt: "What is a static website generator, and why should I care?"
+date: 2016-07-23 00:00:00 Z
+categories:
+- blog
+tags:
+- intro
+- beginner
+- jekyll
+- tutorial
+layout: post
+excerpt: What is a static website generator, and why should I care?
 modified: 2/29/2016, 9:00:24
-tags: [intro, beginner, jekyll, tutorial]
 comments: true
-category: blog
 ---
 
 This is a website template created with Jekyll that is designed to be hosted on Github pages. Jekyll is a static website generator, and Github pages provides a free and easy way to host websites created using Jekyll.
