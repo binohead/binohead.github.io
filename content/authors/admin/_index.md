@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Andy Horn
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Hey You
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Andrew
+last_name: Horn
 
 # Status emoji
 status:
