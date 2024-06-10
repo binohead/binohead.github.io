@@ -3,7 +3,7 @@ title: Perennial Sow Thistle
 subtitle: Oh, you ubiquitous potherb, you!
 date: 2023-07-12T20:54:39.467Z
 draft: false
-featured: true
+featured: false
 tags:
    - plants
    - iseek
