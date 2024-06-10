@@ -19,9 +19,11 @@ There's a bunch of bird songs I have a hard time with. They all sound like Purpl
 
 ... many of which are edible, more (wild lettuce) or less (hawkweed?? I don't know).
 
-And one of these will be deomonstrated here:
+And one of these will be deomonstrated here, if the embed works:
 
-(xeno-canto link removed)
+<div>
+<iframe src='https://xeno-canto.org/59169/embed?simple=1' scrolling='no' frameborder='0' width='340' height='115'></iframe>
+</div>
 
 After which text will follow.
 
