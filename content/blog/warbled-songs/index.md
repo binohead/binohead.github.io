@@ -21,9 +21,7 @@ There's a bunch of bird songs I have a hard time with. They all sound like Purpl
 
 And one of these will be deomonstrated here:
 
-<div>
-<iframe src='https://xeno-canto.org/59169/embed?simple=1' scrolling='no' frameborder='0' width='340' height='115'></iframe>
-</div>
+(xeno-canto link removed)
 
 After which text will follow.
 
