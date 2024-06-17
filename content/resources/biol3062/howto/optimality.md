@@ -12,6 +12,7 @@ In the last lecture, we said the usual approach of behavior ecology is to decide
 
 ##What are optimality models?
  
+
 Optimality models balance the benefits of behaviours with their costs. That's why they call them "optimality models”; they don’t necessarily find the best thing, but rather find the optimal thing. Also, optimality maodels lay out your logic in a very transparent way, specifically by being quantitative. If you commit yourself to to quantitative arguments about exactly how things should go, then you've kind of put your money where your mouth is. You've made it very clear what you mean when you say the behavior animal should behave in a particular way. So optimality models avoid lots of kind of fuzzy, vague talk about how animals should behave.
  
 We’ll have lots of examples of optimality models in this course, especially in the foraging lecture. But what is really nice about them, and you'll see, particularly in the foraging lecture, is that they enable you to make quantitative, in other words precise predictions and tests of your hypotheses. Our arguments above surrounding the hypothesis about the zebra tailed lizards or the reddish egret were kind of wooly, because they were just verbal. But if instead you say, this bird should prefer a mussel of this size on average, then it's a very precise prediction. You then get more effective tests of your hypotheses about why the behavior evolved.
@@ -66,21 +67,11 @@ So now the optimum behavior might be to hold back a little bit more because othe
 So for this situation and for many situations in the course where we're dealing with the behavior of lots of individuals all at once, the optimum behavior depends on what other animals are doing. And for that, we use a different technique, which is also a form of optimality models, called "game theory".
 It's called game theory because, basically, we treat the animals as if they're playing some kind of game with each other. In this case, the game of a pretty serious game, but the game of chasing a fox away from their colony. What the game is meant to show you is the evolutionarily stable strategy, which is the behavior that, once adopted by most members of the population, is likely to be evolutionarily stable - i.e., to persist across generations. It's often *not* the optimum behavior for a given individual, but it's what adaptation by natural selection ends up with, because all these different players are are all trying to optimize their fitness. It explains lots of situations where there's a balance of different behaviors. So where there is some, you know, fighters versus chicken animals that that hold back but are more sneaky and animals that display loudly for four mates and others that sort of sneak around and kind of find mates that way.
 
-We'll see lots of examples of game theory as we go through this course. But I must show you the basic outlines of game theory right now, so you've got it in your head.
-That end result, having game theory model is that you you're after finding the evolutionarily stable strategy, that's the ESS,
-and that's a term that will come up lots: the ESS.
-And what that is a strategy, which is a behavior or a mix of behaviors that, once it's adopted by most members of the population,
-can't be beaten by any other strategy in the game? Sounds pretty confusing for now, but
-But you'll figure it out. There's two ways to find the ESS:
-One way is to look to see where the payoffs are equal. And that's usually done graphically.
-And I'll show you an example of that for our mobbing thing in a second. Or imagine if a new strategy could do better.
-And we can do this process graphically or by something called a payoff matrix.
-And what I'm going to do in the next little clip is go through each of these techniques.
-Well, no, I go through the first the graphical technique for the mobbing example.
-And then I'll just introduce the the the idea of a payoff matrix.
-And this is an example that I've made up.
-A cartoon example for our tern, a situation where you've got the relative fitness on the Y axis and then on the X axis,
-you've got the proportion of a daring phenotype versus a cautious phenotype.
+We'll see lots of examples of game theory as we go through this course. But I must show you the basic outlines of game theory right now, so you've got it in your head. The end result of a game theory model is that you you're after finding the evolutionarily stable strategy, that's the ESS, a term that will come up a lot in this course. That's a strategy, which is a behavior or a mix of behaviors, that, once it's adopted by most members of the population, can't be beaten by any other strategy in the game? Sounds pretty confusing for now, but you'll get the idea once we work through a couple examples.
+
+There's two ways to find the ESS: One way is to look to see where the payoffs are equal, and that's usually done graphically. I'll show you an example of that for our mobbing thing in a second. Alternatively, we can imagine if a new strategy could do better. We can do that process graphically, too, or we can use  something called a payoff matrix. What I'm going to do in  next is go through each of these techniques. First we'll use the graphical technique for the mobbing example, and then we'll use another game to introduce the the the idea of a payoff matrix.
+
+Here's a cartoon example for our tern, a situation where you've got the relative fitness on the Y axis, and  on the X axis,you've got the proportion of a daring phenotype versus a cautious phenotype.
 So daring versus cautious mobbers on the x axis.
 So the way the X axis work works is like this down at the top of the x axis.
 The population consists entirely of cautious mobbers, at the lower end of the x axis,
