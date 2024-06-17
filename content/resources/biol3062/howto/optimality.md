@@ -16,7 +16,7 @@ We’ll have lots of examples of optimality models in this course, especially in
  
 So what I'll do in this lecture is present to you two general approaches to optimality models: first, optimality models for just one individual, and then game theory models, which apply when what one individual does depends on what other individuals do as well. They’re known as game theory models because you've actually got a number of individuals in your kind of game and things are playing out in a particular way. That's all sounds vague at this point, but you’ll understand once I go through these models below.
  
-# A simple optimality model
+## A simple optimality model
  
 So first of all, let's talk about simple, optimality models. To do this, I'll do what I do always, is use a cartoon, a made-up example of a behavior that’s a real behavior, but that I’ve picked not because there's real tests of it out there, but because it illustrates the point. It has to do with terns. They raise their chicks, they lay their eggs on the ground and raise their chicks there until the chicks are big enough to fly off. When they're at the nest, they're on the ground, so they're very vulnerable to predators like this fox that you see here. The terns dive-bomb the fox to try to get the fox to go away from their nests. 
  
@@ -53,7 +53,7 @@ So that's another point to recognize with optimality models: there's a reasoning
  
 So that's our optimality model. Now, what we want is we want to figure out where the tern can maximize its fitness. To do so, it’s got to balance the costs and the benefits. The optimum behavior is where the benefits minus the costs are at their greatest, which we can eyeball as right where the distance between those curves is the fattest (the green line in the figure). That’s where the net benefit -the benefit after you've accounted for the cost of the behavior - is greatest. So that's the optimum behavior; the answer to our optimal model, how close the tern should approach the fox.
 
-# Game theory models
+## Game theory models
 
 OK, that's an optimality model for one individual. But the fact is that these terns are in colonies. So the attack of the fox is more something like this.
 So you can see a lot of these terns are being very nasty to us, standing in for the fox.
