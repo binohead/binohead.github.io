@@ -9,6 +9,8 @@ weight: 3
 ---
 
 In the last lecture, we said the usual approach of behavior ecology is to decide what the best behavior would be in a particular situation. Then you kind of design the behavior, as you would if you were an engineer. The main tools for doing that are optimality models. Today we’ll discuss what they are and how to do them. First, we'll talk about optimality models in general, and then we'll talk about a special class of optimality models that you use when what one animal does depends on what other animals are doing.
+
+##What are optimality models?
  
 Optimality models balance the benefits of behaviours with their costs. That's why they call them "optimality models”; they don’t necessarily find the best thing, but rather find the optimal thing. Also, optimality maodels lay out your logic in a very transparent way, specifically by being quantitative. If you commit yourself to to quantitative arguments about exactly how things should go, then you've kind of put your money where your mouth is. You've made it very clear what you mean when you say the behavior animal should behave in a particular way. So optimality models avoid lots of kind of fuzzy, vague talk about how animals should behave.
  
@@ -55,31 +57,16 @@ So that's our optimality model. Now, what we want is we want to figure out where
 
 ## Game theory models
 
-OK, that's an optimality model for one individual. But the fact is that these terns are in colonies. So the attack of the fox is more something like this.
-So you can see a lot of these terns are being very nasty to us, standing in for the fox.
-But there's lots of terns attacking and that might change things.
-Actually, quite a lot. What should the optimal behavior be?
-Well, the optimum behavior in this case depends on what other individuals are doing.
-Right. Because if you think about it, if somebody else is going close to the fox,
-then I can hold back and still get some benefit because they're doing all the work for me.
-So now the optimum behavior might be to hold back a little bit more because others are doing the work forming.
-Conversely, if everybody is being chicken about attacking the fox, then I'm not going to get any protection.
-So for this situation and for many situations in the course where we're dealing with the behavior of lots of individuals all at once,
-the optimum behavior depends on what other animals are doing.
-And for that, we use a different technique, which is also a form of optimality models.
-And it's called game theory.
-And it's called game theory because basically we treat the animals as if they're playing some kind of game with each other.
-In this case, the game of a pretty serious game, but the game of chasing a fox away from their colony.
-The end result of doing a game theory model is that you find what you're after is the evolutionarily stable strategy.
-So that's the the the behavior that once adopted by most members of the population is likely to be evolutionarily stable.
-It's often not the optimum behavior for a given individual, but it's what adaptation by natural selection ends up with.
-Because all these different players are are all trying to optimize their fitness
-and explains lots of situations where there's a balance of different behaviors.
-So where there is some, you know, fighters versus chicken animals that that hold back but are more sneaky and animals that display
-loudly for four mates and others that sort of sneak around and kind of find mates that way.
-We'll see lots of examples of game theory as we go through this course.
-But I must show you the basic outlines of game theory right now.
-So you've got it in your head.
+OK, that's an optimality model for one individual. But the fact is that these terns are in colonies. So the attack of the fox is more something like this. So you can see a lot of these terns are being very nasty to us, standing in for the fox. But there's lots of terns attacking and that changes things quite a lot.
+
+What should the optimal behavior be? The optimum behavior in this case depends on what other individuals are doing, because if you think about it, if somebody else is going close to the fox,
+then a tern can hold back and still get some benefit, because another tern's doing all the work for you.
+So now the optimum behavior might be to hold back a little bit more because others are doing the work. Conversely, if *everybody* is being chicken about attacking the fox, then that tern is not going to get any protection.
+
+So for this situation and for many situations in the course where we're dealing with the behavior of lots of individuals all at once, the optimum behavior depends on what other animals are doing. And for that, we use a different technique, which is also a form of optimality models, called "game theory".
+It's called game theory because, basically, we treat the animals as if they're playing some kind of game with each other. In this case, the game of a pretty serious game, but the game of chasing a fox away from their colony. What the game is meant to show you is the evolutionarily stable strategy, which is the behavior that, once adopted by most members of the population, is likely to be evolutionarily stable - i.e., to persist across generations. It's often *not* the optimum behavior for a given individual, but it's what adaptation by natural selection ends up with, because all these different players are are all trying to optimize their fitness. It explains lots of situations where there's a balance of different behaviors. So where there is some, you know, fighters versus chicken animals that that hold back but are more sneaky and animals that display loudly for four mates and others that sort of sneak around and kind of find mates that way.
+
+We'll see lots of examples of game theory as we go through this course. But I must show you the basic outlines of game theory right now, so you've got it in your head.
 That end result, having game theory model is that you you're after finding the evolutionarily stable strategy, that's the ESS,
 and that's a term that will come up lots: the ESS.
 And what that is a strategy, which is a behavior or a mix of behaviors that, once it's adopted by most members of the population,
