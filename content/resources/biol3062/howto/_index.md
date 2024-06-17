@@ -15,7 +15,7 @@ type: docs  # Do not modify.
 # AH ADDED IMAGE
 header:
   caption: "robin"
-  image: "../amro.jpg"
+  image: "amro.jpg"
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
@@ -26,6 +26,8 @@ menu:
     weight: 1
 ---
 
-## Welcome to BIOL3062!
+## Preliminaries
 
-I'm hoping this'll be the root of the How To chapter..
+Before getting into the areas explored by behavioural ecologists, it's good to hone up on assumed knowledge that applies across the board.
+
+Specifically, it's good to have a good understanding of evolution by natural selection, as it applies to behaviour, and the methods used by behavioural ecologists.
