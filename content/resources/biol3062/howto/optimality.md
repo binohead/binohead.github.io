@@ -10,7 +10,7 @@ weight: 3
 
 In the last lecture, we said the usual approach of behavior ecology is to decide what the best behavior would be in a particular situation. Then you kind of design the behavior, as you would if you were an engineer. The main tools for doing that are optimality models. Today we’ll discuss what they are and how to do them. First, we'll talk about optimality models in general, and then we'll talk about a special class of optimality models that you use when what one animal does depends on what other animals are doing.
 
-##What are optimality models?
+## What are optimality models?
  
 
 Optimality models balance the benefits of behaviours with their costs. That's why they call them "optimality models”; they don’t necessarily find the best thing, but rather find the optimal thing. Also, optimality maodels lay out your logic in a very transparent way, specifically by being quantitative. If you commit yourself to to quantitative arguments about exactly how things should go, then you've kind of put your money where your mouth is. You've made it very clear what you mean when you say the behavior animal should behave in a particular way. So optimality models avoid lots of kind of fuzzy, vague talk about how animals should behave.
