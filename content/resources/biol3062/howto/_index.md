@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: How To Do This
+linktitle: Preliminaries
 summary: Here's the chapter on methods.
 weight: 1
 
@@ -11,11 +11,6 @@ lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
-
-# AH ADDED IMAGE
-header:
-  caption: "robin"
-  image: "amro.jpg"
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
