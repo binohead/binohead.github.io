@@ -10,7 +10,7 @@ weight: 1
 
 First of all, here's a robin for you:
 
-<a href="amro.jpg" target="_blank">Example Robin Here!</a>
+<a href="/amro.jpg" target="_blank">Example Robin Here!</a>
 
 ## Goal
 
