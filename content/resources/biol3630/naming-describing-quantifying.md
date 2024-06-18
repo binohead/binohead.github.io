@@ -8,6 +8,10 @@ draft: false
 weight: 1
 ---
 
+First of all, here's a robin for you:
+
+<a href="amro.jpg" target="_blank">Example Robin Here!</a>
+
 ## Goal
 
 To give you a feel for some of the decisions involved in naming behaviours, describing them to other people, and converting them into the numbers you’ll need to test hypotheses quantitatively.
