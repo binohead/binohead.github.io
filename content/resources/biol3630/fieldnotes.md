@@ -12,29 +12,32 @@ weight: 2
 
 Good field notes should recreate what you saw and heard in the field, not only for you, but for readers years far into the future. Obviously you can’t write everything down, but there are certain things you should always record no matter what. Obviously, the rest will vary tremendously, but your field notes will be a lot handier if future readers can:
 
-• infer what you chose to write down and what you chose to ignore
-• easily retrieve information (a consistent layout is a huge help)
+- infer what you chose to write down and what you chose to ignore
+- easily retrieve information (a consistent layout is a huge help)
+
 Stuff to always include, in a consistent place on the page:
-• date, time
-• weather
-• your overall plan of action (casual observations, making an ethogram, etc.)
-• key for any abbreviations
+
+- date, time
+- weather
+- your overall plan of action (casual observations, making an ethogram, etc.)
+- key for any abbreviations
 
 ## Stuff to include about each observation:
 
-• species
-• where the animal is relative to relevant features (e.g., you, a tree, etc.)
-• sketches, diagrams as needed & useful (needn’t be high art; just clear)
+- species
+- where the animal is relative to relevant features (e.g., you, a tree, etc.)
+- sketches, diagrams as needed & useful (needn’t be high art; just clear)
+
 Clearly distinguish what you actually observed from your summaries or interpretations. But don’t hold back from the latter, and write down any random thoughts or questions that spring to mind. If you don’t do this on the spot, you will forget.
 
 ## Example of an effective layout (only an example; use what works for you):
 
-• start a new page each time you change dates and/or locations
-• write the date, location, weather, overall plan across the top
-• use left margin for the time (every 5 min, or every new observation, or
+- start a new page each time you change dates and/or locations
+- write the date, location, weather, overall plan across the top
+- use left margin for the time (every 5 min, or every new observation, or
 whatever)
-• use the middle for the notes themselves; include sketches, diagrams
-• use right margin for summary/ideas/interpretation/questions
+- use the middle for the notes themselves; include sketches, diagrams
+- use right margin for summary/ideas/interpretation/questions
 
 ## Keep an extra copy!
    
