@@ -11,7 +11,7 @@ weight: 1
 First of all, here's a robin for you:
 
 <div>
-<a href="https://binohead.github.io/content/amro.jpg" target="_blank">Example Robin Here!</a>
+<a href="https://binohead.github.io/amro.jpg" target="_blank">Example Robin Here!</a>
 </div>
 
 ## Goal
