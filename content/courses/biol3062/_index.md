@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: BIOL3062
-summary: BIOL3062 is an introduction to Behavioural Ecology, the study of the ecology and evolution of animal behaviour, covering such topics as foraging, avoiding predators, communication, and social structure.
+summary: BIOL3062 is an introduction to Behavioural Ecology.
 weight: 1
 
 # Page metadata.
