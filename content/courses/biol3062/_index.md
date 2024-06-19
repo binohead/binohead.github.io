@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: BIOL3062
-summary: BIOL3062 is an introduction to Behavioural Ecology.
+linktitle: BIOL3630
+summary: Here's the textbook for BIOL3062.
 weight: 1
 
 # Page metadata.
@@ -12,10 +12,6 @@ draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
-# AH ADDED IMAGE
-header:
-  caption: "Franklin's Gull at Black Rock Beach"
-  image: "peacock.jpg"
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
@@ -25,6 +21,7 @@ menu:
     name: Welcome
     weight: 1
 ---
+
 
 ## Welcome to BIOL3062!
 
