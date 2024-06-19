@@ -1,6 +1,6 @@
 ---
-title: the title in front matter
-linktitle: the link title in front matter
+title: Renaming this so it shows up
+linktitle: Renaming this so it shows up
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -13,6 +13,8 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
+
+I just tried fixing the menu, so am changing this file to see if we're deploying again.
 
 So the name of the file can be anything, as long as the front matter is OK.
 In the front matter, the whole book is after menu, which I'm not sure needs to be there (here it's the Overview). The actual book are files  under the next thing, example, so they're files in the example folder that can be named anything if they end in ".md".
