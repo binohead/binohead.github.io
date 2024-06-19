@@ -28,10 +28,6 @@ menu:
 
 ## Welcome to BIOL3062!
 
-Here you'll find:
-
-* **Lecture Notes**
-* **Links to supplementary online materials**
-* **Tips based on previous years of the course**
+Here you'll find all sorts of tips on this course.
 
 Hope this helps! And I'm adding extra to see if it'll sync. Don't know if it will.
