@@ -11,7 +11,7 @@ menu:
     weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 
 Taking preliminary data is a great way to not only test preliminary ideas, but also to come up with new ones.
