@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: BIOL3630
-summary: Here's the textbook for BIOL3062.
+summary: A lecture course on behavioural ecology.
 weight: 1
 
 # Page metadata.

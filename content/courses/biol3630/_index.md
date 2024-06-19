@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: BIOL3630
-summary: Here's the textbook for BIOL3630.
+summary: A field course on field methods in animal behaviour.
 weight: 1
 
 # Page metadata.
