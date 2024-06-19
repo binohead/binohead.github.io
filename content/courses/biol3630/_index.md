@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: BIOL3630
-summary: Here's the textbook for BIOL3630.
+summary: BIOL3630 is a course in Field Methods in Animal Behaviour, where you get tips on how to conceive, design, and carry out a study of animal behaviour.
 weight: 1
 
 # Page metadata.
