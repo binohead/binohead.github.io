@@ -14,6 +14,14 @@ main:
   - name: Resources
     url: resources/
     weight: 40
-  - name: Courses
-    url: courses/
+ - name: Courses
+    identifier: courses
     weight: 50
+  - name: BIOL3062
+    parent: courses
+    url: courses/biol3062/
+    weight: 10
+  - name: BIOL3630
+    parent: courses
+    url: courses/biol3630/
+    weight: 20
