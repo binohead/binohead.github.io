@@ -20,10 +20,6 @@ menu:
   biol3630:
     name: Welcome
     weight: 1
-
-banner:
-  image: 'amro.jpg'
-  caption: 'Robin on its nest by the deck'
 ---
 
 ![Here's a robin](amro.jpg "Robin on its nest")
