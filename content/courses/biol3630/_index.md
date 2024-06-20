@@ -23,4 +23,4 @@ Here's all the handouts for this course, which I'll gradually add to in the full
 
 And now I'll try to link to the assets folder:
 
-{{< figure src="mawa.jpg" caption="A magnolia warbler" >}}
+{{< figure src="/images/mawa.jpg" caption="A magnolia warbler" >}}
