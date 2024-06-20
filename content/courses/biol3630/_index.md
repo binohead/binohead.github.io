@@ -26,5 +26,5 @@ menu:
 ## Welcome to BIOL3630!
 
 
-Here's all the handouts for this course, which I'll gradually add to in the fullness of time.
+Here's all the handouts for this course, which I'll gradually add to in the fullness of time. I'll also add a bit of text here, to make sure I haven't broken the whole site as of 7:16am on 20 June 2024.
 
