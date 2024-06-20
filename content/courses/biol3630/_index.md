@@ -22,7 +22,7 @@ menu:
     weight: 1
 ---
 
-![Here's a robin](amro.jpg "Robin on its nest")
+{{< figure src="amro.jpg" caption="Robin on nest" >}}
 
 ## Welcome to BIOL3630!
 
