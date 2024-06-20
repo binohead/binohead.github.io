@@ -35,11 +35,11 @@ So those are the main methods of behavioral ecology that just follow that kind o
 2) Correlate behaviors with fitness.
 3) The comparative method: correlate behavior across taxa to see whether the  differences in behavior are correlated with differences in the environment,  in the ecology, of these organisms.
 
-##1. Optimal design
+## 1. Optimal design
 
 So first of all, let's go through optimal design.  We come up with hypotheses and predictions about how behavior should be.  If it's got to do a particular job and/or we might look at a behavior and say, what is this behavior doing?  What what's the functional explanation for this behavior?  And so I should say a little bit about hypotheses and predictions,  because this is something that's pretty important in behavioral ecology, but also it's something that you do in your behavior journals;  you're going to come up with see your own behaviors and come up with hypotheses and predictions. 
 
-###Hypotheses and predictions
+## Hypotheses and predictions
 
 So a hypothesis is a proposed it's a candidate explanation about -- in the case of behavioral ecology -- about the function of a behavior.  It could be about other things, too.  But for behavioral ecologists, it would be about the function of the behavior -- what kind of job it does for the animal.  The predictions are what you should be able to observe, what you should be able to actually see or measure or whatever.  If the hypothesis is correct, in other words, if your explanation for the behavior is the right explanation and good predictions should be **logical**.  In other words, they should follow from the hypothesis. They should be **testable**; in other words, they should be things that you should be able to see or measure in some way, detect in some way.  And they should also be, for want of a better word,  I don't know exactly the word to use for this, but there should be *<span title="***Exclusive meaning you can eliminate the alternatives. What I'm trying to do here is create a callout box, kind of.">**exclusive**</span> as best as you can get. 
 
