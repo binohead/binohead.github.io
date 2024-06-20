@@ -28,4 +28,3 @@ menu:
 
 Here's all the handouts for this course, which I'll gradually add to in the fullness of time.
 
-{{< figure src="amro.jpg" caption="Robin on nest" >}}
