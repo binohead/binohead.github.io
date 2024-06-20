@@ -30,19 +30,8 @@ Stuff to always include, in a consistent place on the page:
 
 Clearly distinguish what you actually observed from your summaries or interpretations. But don’t hold back from the latter, and write down any random thoughts or questions that spring to mind. If you don’t do this on the spot, you will forget.
 
-## Example of an effective layout (only an example; use what works for you):
-
-- start a new page each time you change dates and/or locations
-- write the date, location, weather, overall plan across the top
-- use left margin for the time (every 5 min, or every new observation, or
-whatever)
-- use the middle for the notes themselves; include sketches, diagrams
-- use right margin for summary/ideas/interpretation/questions
-
 <details>
 <summary>Example of an effective layout</summary>
-
-
 
 - start a new page each time you change dates and/or locations
 - write the date, location, weather, overall plan across the top
