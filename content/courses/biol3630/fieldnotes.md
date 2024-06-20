@@ -40,9 +40,18 @@ whatever)
 - use right margin for summary/ideas/interpretation/questions
 
 <details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
+<summary>Example of an effective layout</summary>
+
+
+
+- start a new page each time you change dates and/or locations
+- write the date, location, weather, overall plan across the top
+- use left margin for the time (every 5 min, or every new observation, or
+whatever)
+- use the middle for the notes themselves; include sketches, diagrams
+- use right margin for summary/ideas/interpretation/questions
+
+But that's just one approach; do whatever works best for you.
 </details>
 
 ## Keep an extra copy!
