@@ -39,6 +39,12 @@ whatever)
 - use the middle for the notes themselves; include sketches, diagrams
 - use right margin for summary/ideas/interpretation/questions
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 ## Keep an extra copy!
    
 Ideally, it’s great to copy your fieldnotes into more permanent journal at end of each day. That gives you a backup copy of your notes and a chance to clarify any illegible or ambiguous bits while things are still fresh in your mind. It’s also a chance to reflect on the day’s sightings and to add corrections, additional details or interpretations (though always make it obvious what’s been added – even if you’re copying your notes moments after your observations, it’s amazing how easy it is to make up things that didn’t actually happen).
