@@ -8,9 +8,6 @@ appearance:
   mode: system
   color: blue
 
-# Next line added by Andy
-capitalizeListTitles = false
-
 # SEO
 marketing:
   seo:
