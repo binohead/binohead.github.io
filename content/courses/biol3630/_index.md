@@ -19,7 +19,15 @@ type: docs  # Do not modify.
 
 Here's all the handouts for this course, which I'll gradually add to in the fullness of time. I'll also add a bit of text here, to make sure I haven't broken the whole site as of 7:16am on 20 June 2024.
 
-{{< figure src="amro.jpg" caption="A robin" >}}
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="amro.jpg" alt="A robin">
+  </div>
+  <div>
+    <h2>An attempt at floating</h2>
+    <p>Here's a paragraph that I hope will lie to the left (I think) of the robin image. Otherwise, things are much the same. All of this should go where the robin image once was.</p>
+  </div>
+</div>
 
 And now I'll try to link to the assets folder:
 
