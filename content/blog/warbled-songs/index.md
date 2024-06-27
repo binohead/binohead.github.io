@@ -34,3 +34,17 @@ There's another one, Warbling Vireo, which sounds just like that.
 <iframe src='https://xeno-canto.org/600073/embed' scrolling='no' frameborder='0' width='340' height='220'></iframe>
 </div>
 
+And Blue Grosbeak, though much rarer in these parts (and less likely to sing, I think) is pretty close, too:
+
+<div>
+<iframe src='https://xeno-canto.org/817543/embed' scrolling='no' frameborder='0' width='340' height='220'></iframe>
+</div>
+
+Orchard Oriole is another trouble maker, though it does have an icterid air about it that can be helpful:
+
+<div>
+<iframe src='https://xeno-canto.org/804246/embed' scrolling='no' frameborder='0' width='340' height='220'></iframe>
+</div>
+
+I could point out this and that to distinguish these, but between Purple Finch being such the strongest default and the others so seldom heard, I'm unlikely to get them right. I'd be tempted to move back to the Boston area just to learn these, were it not for route 128.
+
