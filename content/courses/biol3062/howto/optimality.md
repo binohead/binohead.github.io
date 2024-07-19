@@ -25,7 +25,7 @@ So first of all, let's talk about simple, optimality models. To do this, I'll do
 <details>
 <summary>A tern defends its nest</summary>
 
-{{< figure src="/../tern.mp4" caption="A tern defends its nestr" >}}
+{{< video src="/../tern.mp4" controls="yes" >}}
 
 A tern defending its nest. Don't know if it'll work for a movie.
 
