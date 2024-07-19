@@ -12,7 +12,6 @@ In the last lecture, we said the usual approach of behavior ecology is to decide
 
 ## What are optimality models?
  
-
 Optimality models balance the benefits of behaviours with their costs. That's why they call them "optimality models”; they don’t necessarily find the best thing, but rather find the optimal thing. Also, optimality maodels lay out your logic in a very transparent way, specifically by being quantitative. If you commit yourself to to quantitative arguments about exactly how things should go, then you've kind of put your money where your mouth is. You've made it very clear what you mean when you say the behavior animal should behave in a particular way. So optimality models avoid lots of kind of fuzzy, vague talk about how animals should behave.
  
 We’ll have lots of examples of optimality models in this course, especially in the foraging lecture. But what is really nice about them, and you'll see, particularly in the foraging lecture, is that they enable you to make quantitative, in other words precise predictions and tests of your hypotheses. Our arguments above surrounding the hypothesis about the zebra tailed lizards or the reddish egret were kind of wooly, because they were just verbal. But if instead you say, this bird should prefer a mussel of this size on average, then it's a very precise prediction. You then get more effective tests of your hypotheses about why the behavior evolved.
@@ -21,7 +20,16 @@ So what I'll do in this lecture is present to you two general approaches to opti
  
 ## A simple optimality model
  
-So first of all, let's talk about simple, optimality models. To do this, I'll do what I do always, is use a cartoon, a made-up example of a behavior that’s a real behavior, but that I’ve picked not because there's real tests of it out there, but because it illustrates the point. It has to do with terns. They raise their chicks, they lay their eggs on the ground and raise their chicks there until the chicks are big enough to fly off. When they're at the nest, they're on the ground, so they're very vulnerable to predators like this fox that you see here. The terns dive-bomb the fox to try to get the fox to go away from their nests. 
+So first of all, let's talk about simple, optimality models. To do this, I'll do what I do always, is use a cartoon, a made-up example of a behavior that’s a real behavior, but that I’ve picked not because there's real tests of it out there, but because it illustrates the point. It has to do with terns. They raise their chicks, they lay their eggs on the ground and raise their chicks there until the chicks are big enough to fly off. When they're at the nest, they're on the ground, so they're very vulnerable to predators like this fox that you see here. The terns dive-bomb the fox to try to get the fox to go away from their nests.
+
+<details>
+<summary>A tern defends its nest</summary>
+
+{{< figure src="/images/tern.mov" caption="A tern defends its nestr" >}}
+
+A tern defending its nest. Don't know if it'll work for a movie.
+
+</details>
  
 This is an interesting behavior that they do. How is it crafted through evolution by natural selection? How should the tern behave? It's doing a lot of things there, taking a lot of risks. There's obvious advantages to it. But how exactly would the optimal tern behave? Can we kind of predict what natural selection would favor and predict something about, the “perfect” behavior in this situation? Well, here's how to do that; how to do an optimality model. There's three basic steps: define the behavior as a simple decision, define your constraints, and choose your currency.
  
@@ -40,6 +48,15 @@ To solve this problem, you’ve got to choose a currency: what the animal's afte
 So usually in an optimally model, when you choose a currency, it's that immediate thing that ultimately translates into greater fitness. In this case, though, because we're mixing that the chance that the tern will be killed by the fox (survival) with the chances that its young will survive (reproductive success), both of which ultimately end up in greater fitness, we'll just simplify things and call it fitness. We'll play around with currencies some more in the foraging lectures, leaving aside further discussion until then.
  
 OK, so now we've got all the key elements in our optimality model. Now what we're going to do is write this all out quantitatively.  I'm not going to do it in terms of equations; I'm going to do it graphically because what I'm after is a kind of intuitive appreciation of all this.
+
+<details>
+<summary>A tern defends its nest</summary>
+
+{{< figure src="/images/terngraph.jpg" caption="Our optimal mobbing model" >}}
+
+A tern's fitness payoff for defending its nest. The closer it gets to the fox, the better its nesting success (and thus fitness), but as it gets very close, its risk of getting caught by the fox abruptly increases (a big fitness value is subtracted).
+
+</details>
  
 So here we got fitness on the y axis. And then distance to predator on the x axis. And our question is, how close to the predator should the tern get? How low should it go on the x axis that will result in the highest fitness? How do we figure this out? Well, we can draw some curves. We can draw, first of all, a benefit curve, which basically says that if the tern stays far away from the fox, it's not going to drive away the fox, and the fox is going to eat all the tern's young, because the tern’s being all chicken about attacking the fox. So the benefit is going to be low.
  
