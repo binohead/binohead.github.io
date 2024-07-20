@@ -43,7 +43,7 @@ OK, so now we've got all the key elements in our optimality model. Now what we'r
 <details>
 <summary>A tern defends its nest</summary>
 
-{{< figure src="terngraph.jpg" caption="Our optimal mobbing model" >}}
+{{< figure src="/terngraph.jpg" caption="Our optimal mobbing model" >}}
 
 A tern's fitness payoff for defending its nest. The closer it gets to the fox, the better its nesting success (and thus fitness), but as it gets very close, its risk of getting caught by the fox abruptly increases (a big fitness value is subtracted).
 
