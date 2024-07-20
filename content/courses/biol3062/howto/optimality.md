@@ -21,15 +21,6 @@ So what I'll do in this lecture is present to you two general approaches to opti
 ## A simple optimality model
  
 So first of all, let's talk about simple, optimality models. To do this, I'll do what I do always, is use a cartoon, a made-up example of a behavior that’s a real behavior, but that I’ve picked not because there's real tests of it out there, but because it illustrates the point. It has to do with terns. They raise their chicks, they lay their eggs on the ground and raise their chicks there until the chicks are big enough to fly off. When they're at the nest, they're on the ground, so they're very vulnerable to predators like this fox that you see here. The terns dive-bomb the fox to try to get the fox to go away from their nests.
-
-<details>
-<summary>A tern defends its nest</summary>
-
-{{< video src="/tern.mp4" controls="yes" >}}
-
-A tern defending its nest. Don't know if it'll work for a movie.
-
-</details>
  
 This is an interesting behavior that they do. How is it crafted through evolution by natural selection? How should the tern behave? It's doing a lot of things there, taking a lot of risks. There's obvious advantages to it. But how exactly would the optimal tern behave? Can we kind of predict what natural selection would favor and predict something about, the “perfect” behavior in this situation? Well, here's how to do that; how to do an optimality model. There's three basic steps: define the behavior as a simple decision, define your constraints, and choose your currency.
  
