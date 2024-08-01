@@ -37,7 +37,7 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-capitalizeListTitles: none
+capitalizeListTitles: true
 
 ############################
 ## ADVANCED
