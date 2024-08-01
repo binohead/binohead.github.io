@@ -19,4 +19,4 @@ Yes, this is the key question.
 
 Let's see how it handles images.
 
-![](/Users/andrewhorn/Documents/GitHub/binohead.github.io/content/blog/white-meadowsweet/featured.jpg)
+![](https://binohead.github.io/blog/warbled-songs/featured_hu17d2fd7c835acc25fa5b23506fa21df5_113233_8b3383641be7222c8b6729bfb23fa5fa.webp)
