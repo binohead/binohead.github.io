@@ -40,4 +40,4 @@ And here it is with mouseover:
 
 Or hover?
 
-<span title=”hover text”>hover</div>
+<span title=”hover text”>hover</span>
