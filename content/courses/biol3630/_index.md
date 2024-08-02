@@ -33,13 +33,3 @@ And now I'll try to link to the assets folder:
 
 {{< figure src="/images/mawa.jpg" caption="A magnolia warbler" >}}
 
-And here it is as a dropdown:
-
-<details>
-<summary>Example of an effective layout</summary>
-
-{{< figure src="/images/mawa.jpg" caption="A magnolia warbler" >}}
-
-A Magnolia Warbler. Note the rich detail.
-
-</details>
