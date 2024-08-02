@@ -33,3 +33,7 @@ Here's some other stuff I've found out about Hugo or whatever all this is:
 And even better, giving up on the link in mouseover text:
 
 <a href="#" onclick="alert('Most sources will disagree with this characterization.')"> But with important caveats.</a>
+
+And here it is with mouseover:
+
+<a href="#" onmouseover="alert('Most sources will disagree with this characterization.')"> But with important caveats.</a>
