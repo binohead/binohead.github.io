@@ -29,3 +29,7 @@ Here's some other stuff I've found out about Hugo or whatever all this is:
 - sidenotes are hard
 - footnotes are the way to go, and/or (see this current post)
 - curtains, or whatever they call them (see the first page of 3630)
+
+Um, but how about this:
+
+<a href="#" onclick="alert('Hi')">Click Me</a>
