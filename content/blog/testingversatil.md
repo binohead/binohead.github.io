@@ -23,10 +23,16 @@ Let's see how it handles images.
 
 ![](https://binohead.github.io/blog/warbled-songs/featured_hu17d2fd7c835acc25fa5b23506fa21df5_113233_8b3383641be7222c8b6729bfb23fa5fa.webp)
 
-And finally, here's another test of the sidenote:
+And finally, here's a test of an aside:
 
-<small class="sidenote noindent" aria-label="side note">
-  <span class="d-none">(sidenote: </span>
-    Hello! I am a side note!
-  <span class="d-none">)</span>
-</small>
+<p>
+Salamanders are a group of amphibians with a lizard-like appearance, including short legs and a tail in both larval and adult forms.
+</p>
+
+<aside>
+  <p>The Rough-skinned Newt defends itself with a deadly neurotoxin.</p>
+</aside>
+
+<p>
+ Several species of salamander inhabit the temperate rainforest of the Pacific Northwest, including the Ensatina, the  Northwestern Salamander and the Rough-skinned Newt. Most salamanders are nocturnal, and hunt for insects, worms and other small creatures.
+</p>
