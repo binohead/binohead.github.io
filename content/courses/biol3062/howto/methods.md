@@ -47,6 +47,9 @@ By exclusive, I mean that they should kind of rule out other hypotheses.  That c
 
 So let me show you an example of this about a basic approach to this question of optimal design.  What what job does a behavior do? What's its function?  You see a behavior and how does its design lead to particular effects, specifically adaptive effects?  In other words, things that are going to increase the fitness of the animal and therefore be selected for through evolution by natural selection.
 
+<details>
+,summary>Example of a study of optimal design</summary>
+
 <div class="row" style="background-color:lightblue; padding-left: 80px; padding-right: 80px">
 <h3>Why do zebra-tailed lizards wag their tail?</h3>
   So here's the example. Here's a zebra-tailed lizard.  And look at how they wave their tail. And they wave their tail more when there's a predator around.  They don't do it all that much.  When they're sort of doing mating displays or territorial displays like these ones who are just doing for that, they sort of bob their heads.
@@ -61,6 +64,8 @@ So let me show you an example of this about a basic approach to this question of
   How did the students test these different hypotheses?  So the first one: "gets predator to attack the tail". You would expect the tail wagging to be more likely if the attack was imminent.  So just before the predator grabs it, that's when you wag your tail.  So they tested this by throwing a stick at the lizard versus walking slowly toward the lizard.  They expected that if you're walking slowly towards the lizard,  then that's plenty of time for the lizard to run off, whereas if you throw a stick, immediately,  There's the stick and the lizard goes like, something's about to grab me, and it should wag their tail if that's what the tail wagging is about.  Another possibility is that it warns other lizards.  And of course, you would only expect them to tail wag when there's other lizards around to receive that signal.  A third possibility is that they wag more. A wag is more likely if they're near cover or if they're warm.  And that's because if they're near cover like a rock or something, they can hide underneath.  They're more likely to escape. And if they're warm and because they're reptiles, their metabolism's going better and they can run faster.  And so they're more likely to escape that. So they should wag when they're more likely to escape.  if this hypothesis holds, and the wag should be less likely if the attack is sudden.  So, for instance, if you're throwing a stick at the lizard, then the attack should be less likely.  And what's nice about that prediction is that it it it ticks that box of exclusivity, which I was talking about before.  Right? If if it goes one way, it's this hypothesis. If it goes the other way, it's another hypothesis.  Short story is these hypotheses didn't work out and these hypotheses did work out because these  students could manage to test these hypotheses by walking toward lizards and throwing sticks at them.  So it's a great idea. A great example of hypotheses and predictions that you can do on your own.
 
 </div>
+
+</details>
 
 <span class="tooltiptext">Tooltip text</span>
 
