@@ -23,10 +23,9 @@ Let's see how it handles images.
 
 ![](https://binohead.github.io/blog/warbled-songs/featured_hu17d2fd7c835acc25fa5b23506fa21df5_113233_8b3383641be7222c8b6729bfb23fa5fa.webp)
 
-And finally, here's a test of an aside:
+Here's some other stuff I've found out about Hugo or whatever all this is:
 
-Salamanders are a group of amphibians with a lizard-like appearance, including short legs and a tail in both larval and adult forms.
-<aside>
-The Rough-skinned Newt defends itself with a deadly neurotoxin.
-</aside>
-Several species of salamander inhabit the temperate rainforest of the Pacific Northwest, including the Ensatina, the  Northwestern Salamander and the Rough-skinned Newt. Most salamanders are nocturnal, and hunt for insects, worms and other small creatures.
+- hover doesn't work
+- sidenotes are hard
+- footnotes are the way to go, and/or (see this current post)
+- curtains, or whatever they call them (see the first page of 3630)
