@@ -37,3 +37,7 @@ And even better, giving up on the link in mouseover text:
 And here it is with mouseover:
 
 <a href="#" onmouseover="alert('Most sources will disagree with this characterization.')"> But with important caveats.</a>
+
+Or hover?
+
+<span title=”hover text”>hover</div>
