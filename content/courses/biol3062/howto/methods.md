@@ -51,7 +51,7 @@ So let me show you an example of this about a basic approach to this question of
 <h3>Why do zebra-tailed lizards wag their tail?</h3>
   So here's the example. Here's a zebra-tailed lizard.  And look at how they wave their tail. And they wave their tail more when there's a predator around.  They don't do it all that much.  When they're sort of doing mating displays or territorial displays like these ones who are just doing for that, they sort of bob their heads.
   <br>
-  <img src="lizard.jpg" alt="lizard">
+  <img src="/courses/biol3062/howto/lizard.jpg" alt="lizard">
     Undergraduate students in another behavioral ecology course came up  with various hypotheses about why these zebra-tailed lizards wag their tail. They knew that lizards  did it when there was a potential predator around, for instance, a human that was walking toward them,  just like you might see pigeons getting "nervous" when you're walking toward them.
   They were in an Arizona university, so these zebra tailed lizards were all over the campus. The students came up with  hypotheses and predictions they could test right on campus:
   1. Wagging gets the predator to attack the tail, attack the tail (and, like many lizards and salamanders, if the predator grabs the tail, the tail can drop off; the lizard can grow a new one).
