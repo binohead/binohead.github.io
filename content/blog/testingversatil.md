@@ -25,12 +25,8 @@ Let's see how it handles images.
 
 And finally, here's a test of an aside:
 
-<p>
 Salamanders are a group of amphibians with a lizard-like appearance, including short legs and a tail in both larval and adult forms.
-
 <aside>
-  <p>The Rough-skinned Newt defends itself with a deadly neurotoxin.</p>
+The Rough-skinned Newt defends itself with a deadly neurotoxin.
 </aside>
-
- Several species of salamander inhabit the temperate rainforest of the Pacific Northwest, including the Ensatina, the  Northwestern Salamander and the Rough-skinned Newt. Most salamanders are nocturnal, and hunt for insects, worms and other small creatures.
-</p>
+Several species of salamander inhabit the temperate rainforest of the Pacific Northwest, including the Ensatina, the  Northwestern Salamander and the Rough-skinned Newt. Most salamanders are nocturnal, and hunt for insects, worms and other small creatures.
