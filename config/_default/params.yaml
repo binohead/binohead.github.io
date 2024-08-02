@@ -7,7 +7,7 @@
 appearance:
   mode: system
   color: blue
-capitalizeListTitles: true
+capitalizeListTitles: false
 
 # SEO
 marketing:

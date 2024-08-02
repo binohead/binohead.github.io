@@ -15,7 +15,9 @@ Now let's try a post using Versatil, which might be a good way to check things b
 
 ## Does it work?
 
-Yes, this is the key question.
+Yes, this is the key question. That's some text with a footnote.[^1]
+
+[^1]: And that's the footnote.
 
 Let's see how it handles images.
 
