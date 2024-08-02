@@ -30,6 +30,6 @@ Here's some other stuff I've found out about Hugo or whatever all this is:
 - footnotes are the way to go, and/or (see this current post)
 - curtains, or whatever they call them (see the first page of 3630)
 
-And even better:
+And even better (though I doubt the link will work):
 
-<a href="#" onclick="alert('Most sources will diagree with this characterization. For further details, go to the previous chapter, which you should have read by now.')">But with important caveats.</a>
+<a href="#" onclick="alert('Most sources will diagree with this characterization. For further details, go to [https://binohead.github.io/courses/biol3630/](), which you should have read by now.')">But with important caveats.</a>
