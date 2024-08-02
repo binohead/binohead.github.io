@@ -32,4 +32,4 @@ Here's some other stuff I've found out about Hugo or whatever all this is:
 
 And even better, giving up on the link in mouseover text:
 
-<a href="#" onclick="alert('Most sources will diagree with this characterization. For further details, read <b>This text is bold</b> and find it yourself.')">But with important caveats.</a>
+<a href="#" onclick="alert('Most sources will diagree with this characterization. For further details, find stuff yourself, since I can't seem to fit links in here.')">But with important caveats.</a>
