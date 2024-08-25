@@ -13,6 +13,8 @@ tags:
 --- 
 This one stumped iSeek for a while, until the flowers came out. The arrow-straight stems made me think it'd be called arrowroot or something.
 
+![white snakeroot](featured.jpg)
+
 But it was the corymbs that caught my eye first when reading about it. Of course, you don't know what a corymb is. I'll wait a moment while I lord that over you ...
 
 A corymb is the form that the white snakeroots flowers are in. The word comes from the Greek word for bunch of flowers. People spoke more plainly back then.
