@@ -3,7 +3,7 @@ title: Straight as an arrow
 subtitle: The mystery plan right in our faces
 date: 2024-07-22T20:54:39.467Z
 draft: false
-featured: true
+featured: false
 tags:
    - plants
 #image:
