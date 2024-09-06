@@ -13,7 +13,7 @@
 }
 
 .hb-card-title {
-  @apply flex text-transform: none; font-semibold items-start gap-2 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50 items-center;
+  @apply flex text-transform:capitalize font-semibold items-start gap-2 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50 items-center;
 }
 
 .hb-card-subtitle {
