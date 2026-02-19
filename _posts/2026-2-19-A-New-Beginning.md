@@ -7,10 +7,6 @@ featured: false
 tags:
     - birds
     - birding
-image:
-  filename: featured
-  focal_point: Center
-  preview_only: false
 ---
 Crows were making a racket in a corner of the Royal Annapolis Royal Gardens (did I get the name right?). But what really got my attention was that it wasn't just crows, but robins, grackles, and others, too.
 
