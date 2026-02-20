@@ -10,6 +10,10 @@ Here's another page.
 
 If you need advice, don't hesitate to get in touch.
 
+### Add to navbar
+
+Under layouts/default
+
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
