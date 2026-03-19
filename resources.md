@@ -20,4 +20,4 @@ To live here: [BIOL 3062][(https://pages.github.com/]
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aghorn@dal.ca](mailto:aghorn@dal.ca)
