@@ -16,7 +16,7 @@ Under layouts/default
 
 ### BIOL 3062 textbook
 
-To live here: [BIOL 3062][(https://pages.github.com/]
+To live here: [BIOL 3062](http://www.andyhorn.ca/textbook/)
 
 ### Contact me
 
