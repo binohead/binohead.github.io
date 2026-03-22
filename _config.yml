@@ -9,7 +9,7 @@ name: Andy Horn's Mostly Birds
 description: Birder, Orthinologist, Visionary
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/binohead.png
+avatar: /images/binohead.png
 
 #
 # Flags below are optional
@@ -18,17 +18,17 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/bi
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: aghorn@dal.ca
   facebook:
   flickr:
   github: binohead
-  instagram:
+  instagram: andysatitagain
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: binohead
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCV861E2LQKZ5ascRVHQYhDQ
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
