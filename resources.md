@@ -4,20 +4,17 @@ title: Resources
 permalink: /resources/
 ---
 
-Here's another page.
-
-### More Information
-
-If you need advice, don't hesitate to get in touch.
-
-### Add to navbar
-
-Under layouts/default
+Here's quick links to stuff you might find useless.
 
 ### BIOL 3062 textbook
 
-To live here: [BIOL 3062](http://www.andyhorn.ca/textbook/)
+Lecture notes for a course I teach: [BIOL 3062](http://www.andyhorn.ca/textbook/)
 
-### Contact me
+### Useful local links
 
-[aghorn@dal.ca](mailto:aghorn@dal.ca)
+[Nova Scotia Bird Society](http://www.nsbirdsociety.ca)
+
+My favourite weather site: [Ventusky](https://www.ventusky.com/?p=44.3;-63.3)
+
+
+
